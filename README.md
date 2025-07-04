@@ -22,3 +22,4 @@
 - Fried Chicken
 - Solt
 - Syake
+- ebi-mayo
