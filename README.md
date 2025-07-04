@@ -16,3 +16,4 @@
 - Line
 - Firefox
 - Webex
+- Zoom
